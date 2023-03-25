@@ -1,3 +1,4 @@
+//para executar essa pipeline é necessários estar com o servidor Serverest rodando na porta 3000
 pipeline {
     agent any
 
